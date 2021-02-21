@@ -1,4 +1,6 @@
-### Hi there 👋
+### High School CV, ML, PYTHON Developer, In Korea
+### I'm looking to join Developer Team.
+### I want to learn about Game, Web Developing 
 
 <!--
 **elppa1200/elppa1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
