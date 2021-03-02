@@ -1,5 +1,5 @@
 ### High School CV, ML, PYTHON Developer, In Korea
-### I'm looking to join Developer Team.
+### I'm members - TeamDelta, TeambreakDown();
 ### I want to learn about Game, Web Developing 
 
 <!--
