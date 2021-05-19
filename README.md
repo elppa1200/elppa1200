@@ -1,6 +1,6 @@
 ### High School CV, ML, PYTHON Developer, In Korea
 ### I'm a member - TeamDelta, TeambreakDown();
-### I want to learn about Game, Web Developing 
+### I want to learn about Robotics, CV 
 
 <!--
 **elppa1200/elppa1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
