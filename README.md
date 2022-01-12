@@ -1,4 +1,4 @@
-### High School CV, ML, PYTHON Developer, In Korea
+### SJU(Sejong Univ.) CV, ML, PYTHON Developer, In Korea
 ### I'm a member - TeambreakDown();
 ### I want to learn about Robotics, CV 
 
