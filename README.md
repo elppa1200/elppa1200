@@ -1,5 +1,5 @@
 ### SJU(Sejong Univ.) CV, ML, PYTHON Developer, In Korea
-### I'm a member - TeambreakDown();
+### I'm a member - Team.Akan;
 ### I want to learn about Robotics, CV 
 
 <!--
