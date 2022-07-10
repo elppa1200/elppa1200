@@ -1,6 +1,6 @@
 ### SJU(Sejong Univ.) CV, ML, PYTHON Developer, In Korea
 ### I'm a member - Team.Akan;
-### I want to learn about Robotics, CV 
+### I'm learning about CV, ML
 
 <!--
 **elppa1200/elppa1200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
